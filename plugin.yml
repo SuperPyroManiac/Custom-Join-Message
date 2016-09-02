@@ -1,0 +1,6 @@
+name: CustomJoin
+version: 1.0
+description: This plugin lets you configure the join/leave messages.
+author: SuperPyroManiac
+website: TownCraftServer.com
+main: me.spigot.SuperPyroManiac.Main

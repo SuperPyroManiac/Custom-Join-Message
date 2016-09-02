@@ -1,0 +1,11 @@
+# Custom Join Messages - Made by SuperPyroManiac for TownCraft.mine.bz
+Staff:
+    - SuperPyroManiac
+    - Hazz26
+    - Player3
+# Message for all regular players
+Join: '&6-&9 [player] &8Has Joined!'
+Leave: '&6-&9 [player] &8Has Left!'
+# Message for staff from above
+StaffJoin: '&6-&8 Staff Member&9 [player] &8Has Joined!'
+StaffLeave: '&6-&9 [player] &8Has Left!'
