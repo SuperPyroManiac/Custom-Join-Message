@@ -47,6 +47,7 @@ implements Listener {
 		}
 		}
 	}
+	@EventHandler
 	public void onPlayerQuit(PlayerQuitEvent p){
 		String quitMsg = ChatColor.translateAlternateColorCodes('&', getConfig().getString("Leave"));
 		Player pl = p.getPlayer();
