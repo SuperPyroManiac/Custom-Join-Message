@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Custom Join Message">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Custom_Join_Message</output-path>
+    <root id="archive" name="Custom Join Message.jar">
+      <element id="module-output" name="Custom Join Message" />
+      <element id="file-copy" path="$PROJECT_DIR$/config.yml" />
+      <element id="file-copy" path="$PROJECT_DIR$/plugin.yml" />
+    </root>
+  </artifact>
+</component>
